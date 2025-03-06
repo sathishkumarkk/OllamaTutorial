@@ -8,3 +8,7 @@ Step2: python -m pip install --upgrade pip
 # HTTP request to ollama using ollama package
 
 Step 1: pip install llama-index-llms-ollama
+
+
+Reference:
+https://github.com/ollama/ollama-python
